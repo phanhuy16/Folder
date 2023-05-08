@@ -1,0 +1,16 @@
+.tour {
+  width: 370px;
+  background-color: white;
+}
+
+.tour-content {
+  padding: 20px 20px 14px 20px;
+}
+
+.tour-tilte {
+  margin-bottom: 10px;
+}
+
+.tour-rating {
+  margin-bottom: 20px;
+}
