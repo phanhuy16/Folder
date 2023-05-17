@@ -1,0 +1,19 @@
+* {
+    box-sizing: inherit;
+}
+html {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    color: black;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}

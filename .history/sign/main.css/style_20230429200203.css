@@ -1,0 +1,49 @@
+* {
+    box-sizing: inherit;
+}
+html {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+.header {
+    width: 100%;
+    max-width: 1400px;
+    max-height: 100%;
+    background-color: #FBFBFB;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+    padding-left: 70px;
+}
+
+.header-list {
+    padding: 0 25px;
+    color: black;
+    font-weight: 500;
+}
+
+.header-login {
+    padding-left: 25px;
+}
